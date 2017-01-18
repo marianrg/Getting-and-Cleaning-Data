@@ -5,7 +5,8 @@
 1.	Download and unzip files from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 2.	Open the R script run_analysis.R using a text editor.
 3.	Make the working directory the directory where the files where downloaded.
-4.	Run the R script run_analysis.R. 
+4.  The 'data.table' package should already be installed.
+5.	Run the R script run_analysis.R. 
 
 ##Script Description
 
